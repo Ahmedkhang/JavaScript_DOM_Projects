@@ -1,0 +1,34 @@
+.container{
+    width:screen;
+    height:screen;
+    background-color:olive;
+}
+.content{
+    width:screen;
+    height:screen;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:2vw;
+}
+.button{
+    width:10vw;
+    height:20vh;
+    background-color:red;
+    border: 1px solid black;
+}
+#gray{
+    background-color:gray;
+}
+
+#gray{
+    background-color:gray;
+}
+
+#yellow{
+    background-color:yellow;
+}
+
+#blue{
+    background-color:blue;
+}
