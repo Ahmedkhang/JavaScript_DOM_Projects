@@ -1,0 +1,41 @@
+*{
+    width:100%;
+    height:screen;
+    
+    
+}
+body{
+    width:screen;
+    height:screen;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:skyblue;
+    padding-top:10%;
+}
+#container{
+    width:25vw;
+    height:55vh;
+    border:2px solid black;
+    background-color:rgb(14, 136, 184);
+    
+   
+}
+#text{
+    text-align:center;
+    color:rgb(244, 248, 250);
+    font-size:18px;
+    margin-top:15vh;
+    font-weight:bolder;
+}
+#clock{
+    width:6vw;
+    height:3vh;
+    background-color:skyblue;
+    margin-left:9vw;
+    padding:8px;
+    border-radius:10px;
+    margin-top:8px;
+    color:white;
+    text-align:center;
+}
